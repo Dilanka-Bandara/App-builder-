@@ -1,7 +1,7 @@
 [project]
-name = "coder-buddy"
+name = "App bulder"
 version = "0.1.0"
-description = "Add your description here"
+description = "this is the project I am going to create a app builder."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
